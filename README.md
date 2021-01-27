@@ -17,3 +17,5 @@ Test of the position of developer at Informa Solutions
 
 ![Image of albumimage](/images/imageupload.png)
 
+
+Link for Angular folder: https://drive.google.com/file/d/1hKir-OkOX0qLI13lNspe14AUotPb0FI7/view?usp=sharing
