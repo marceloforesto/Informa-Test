@@ -2,9 +2,7 @@
 Test of the position of developer at Informa Solutions
 
 
-
-#Technology used
-
+## Technology used
 - Angular 11
 - .Net Core API
 - SQL Server for database
