@@ -11,7 +11,7 @@ Test of the position of developer at Informa Solutions
 
 ![Image of artistpage](/images/albumimage.png)
 
-![Image of albumpage](/images/albumpage.png)
+![Image of albumpage](/images/artistpage.png)
 
 ![Image of trackfilter](/images/trackfilter.png)
 
