@@ -8,5 +8,4 @@ Test of the position of developer at Informa Solutions
 - SQL Server for database
 
 ![Image of Trackpage](/images/trackpage.png)
-Format: ![Alt Text](url)
 
