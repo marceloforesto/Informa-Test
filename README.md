@@ -7,4 +7,6 @@ Test of the position of developer at Informa Solutions
 - .Net Core API
 - SQL Server for database
 
-![Image of Trackpage] (https://github.com/marceloforesto/Informa-Test/blob/main/images/trackpage.png)
+![Image of Trackpage](/images/trackpage.png)
+Format: ![Alt Text](url)
+
