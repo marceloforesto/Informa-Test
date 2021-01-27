@@ -11,12 +11,17 @@ Link for Angular folder: https://drive.google.com/file/d/1hKir-OkOX0qLI13lNspe14
 
 
 - Prints screens
+1) Track page
 ![Image of trackpage](/images/trackpage.png)
 
+2) Album page
 ![Image of artistpage](/images/albumimage.png)
 
+3) Artist page
 ![Image of albumpage](/images/artistpage.png)
 
+4)Track filder
 ![Image of trackfilter](/images/trackfilter.png)
 
+5) Album image upload
 ![Image of albumimage](/images/imageupload.png)
