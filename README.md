@@ -9,11 +9,11 @@ Test of the position of developer at Informa Solutions
 
 ![Image of trackpage](/images/trackpage.png)
 
-![Image of artistpage](/images/artistpage.png)
+![Image of artistpage](/images/albumimage.png)
 
 ![Image of albumpage](/images/albumpage.png)
 
 ![Image of trackfilter](/images/trackfilter.png)
 
-![Image of albumimage](/images/albumimage.png)
+![Image of albumimage](/images/imageupload.png)
 
